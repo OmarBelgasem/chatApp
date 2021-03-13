@@ -9,9 +9,9 @@ import 'firebase/storage'
 
 // Your web app's Firebase configuration
   var config = {
-    apiKey: "AIzaSyCb9hsYfKVfz6j93IO22djONyAClPNo604",
-    authDomain: "project-time-chat.firebaseapp.com",
-    databaseURL: "https://project-time-chat.firebaseio.com",
+    apiKey: "",
+    authDomain: "",
+    databaseURL: "",
     projectId: "project-time-chat",
     storageBucket: "project-time-chat.appspot.com",
     messagingSenderId: "435886633074",
