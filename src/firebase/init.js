@@ -14,9 +14,9 @@ import 'firebase/storage'
     databaseURL: "",
     projectId: "project-time-chat",
     storageBucket: "project-time-chat.appspot.com",
-    messagingSenderId: "435886633074",
-    appId: "1:435886633074:web:91d113bd86f0076724d2eb",
-    measurementId: "G-2TT7BWJT4Q"
+    messagingSenderId: "",
+    appId: "",
+    measurementId: ""
   };
   
 
